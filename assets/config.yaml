@@ -1,0 +1,14 @@
+server:
+  address: 127.0.0.1
+  port: 8080
+  GIN_MODE: DEBUG
+
+
+db:
+  path: database/db.sqlite3
+  user:
+    login: 1
+    password: 1
+
+crypto:
+  salt: don't give that to David
