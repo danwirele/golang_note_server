@@ -11,4 +11,4 @@ db:
     password: 1
 
 crypto:
-  salt: don't give that to David
+  salt: your salt
